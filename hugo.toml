@@ -245,11 +245,11 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "cotent/about/"
+    url        = "content/about/"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "cotent/projects/"
+    url        = "content/projects/"
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
