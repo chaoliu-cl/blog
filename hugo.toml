@@ -253,8 +253,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "/images/chaoliu_cv.pdf/"
+    url        = "/images/chaoliu_cv.pdf"
   [[menu.main]]
     identifier = "publications"
     name       = "Publications"
-    url        = "cotent/publications/"
+    url        = "content/publications/"
